@@ -1,4 +1,5 @@
- import './Expenseitem.css';
+import React from 'react';
+import './Expenseitem.css';
  import ExpenseDate from './ExpenseDate';
 //  import Card from './Card';
 
