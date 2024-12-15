@@ -1,3 +1,10 @@
+# Project Details
+This is the only frontend part web application there is not added any backend part,
+That's why there is no uses any database also.
+Thank You......
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
